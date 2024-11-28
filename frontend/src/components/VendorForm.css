@@ -13,10 +13,10 @@
 
 
   .button-container {
-    display: flex; /* Flexbox for alignment */
-    flex-direction: column; /* Arrange buttons in a column */
-    align-items: center; /* Center align buttons horizontally */
-    gap: 10px; /* Add vertical spacing between buttons */
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+    gap: 10px; 
     margin-bottom: 20px;
 }
 
@@ -29,18 +29,8 @@
     border-radius: 4px;
     font-size: 16px;
     cursor: pointer;
-    width: 200px; /* Optional: Set a consistent width for buttons */
+    width: 200px; 
 }
-
-
-
-
-
-
-
-  
-  
-  
   .nav-button:hover {
     background-color: #45a049;
   }
